@@ -1,4 +1,3 @@
-#simple ecommerce react practice
+#simple ecommerce for react practice
 
-react practice with supersimpledev 
-my frist ecommerce practice
+
